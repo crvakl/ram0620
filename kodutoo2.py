@@ -159,7 +159,7 @@ class Paladin(Tegelane):
         kes.võta_kahju(kahju)
 
 
-# lahingufunktsioon - töötab kõigiga
+#lahingufunktsioon - töötab kõigiga
 def lahing(t1, t2):
     print("\n" + "=" * 50)
     print(f"{t1.nimi} VS {t2.nimi}")
